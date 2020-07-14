@@ -1,0 +1,11 @@
+{
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.ignorePatterns": [
+    ".vscode/*.py",
+    "**/settings.py",
+    "**/manage.py",
+    "**/migrations.py"
+  ]
+}
